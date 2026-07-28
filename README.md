@@ -7,7 +7,7 @@ An AI-powered full-stack web application that combines a React frontend with a F
 ## 🚀 Live Demo
 
 **Frontend:** https://ai-workspace-blue-nine.vercel.app
-**Backend API:** https://ai-workspace-production-2f73.up.railway.app
+**Backend API:** https://ai-workspace-production-2f73.up.railway.app/docs
 
 ---
 
